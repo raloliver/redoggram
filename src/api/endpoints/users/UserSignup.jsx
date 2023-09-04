@@ -1,8 +1,8 @@
 /*
- * File: UserPost.jsx
+ * File: UserSignup.jsx
  * Project: redoggram
  * Created: Monday, September 4th 2023, 6:18:40 am
- * Last Modified: Monday, September 4th 2023, 7:25:22 am
+ * Last Modified: Monday, September 4th 2023, 10:36:27 am
  * Copyright © 2023 AMDE Agência
  */
 
