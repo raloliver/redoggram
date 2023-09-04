@@ -1,0 +1,21 @@
+/*
+ * File: App.css
+ * Project: redoggram
+ * Created: Monday, September 4th 2023, 6:13:40 am
+ * Last Modified: Monday, September 4th 2023, 6:26:53 am
+ * Copyright © 2023 AMDE Agência
+ */
+ 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button {
+    font-family: 'Roboto Slab', serif;
+}
